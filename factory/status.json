@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "state": "QUEUED",
+  "target_new_questions": 250000,
+  "published_questions": 0,
+  "published_batches": 0,
+  "pending_questions": 0,
+  "completed_jobs": 0,
+  "total_jobs": 60,
+  "production_approved": false,
+  "generation": "Wikimedia structured data; no LLM/API tokens",
+  "note": "The background worker is being deployed.",
+  "updated_at": "2026-10-31T00:00:00+00:00"
+}

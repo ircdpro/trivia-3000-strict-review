@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target_new_questions": 250000,
+  "target_per_topic": 834,
+  "batch_size": 5000,
+  "topic_chunk_size": 10,
+  "source_languages": [
+    "ms",
+    "en"
+  ],
+  "search_limit": 50,
+  "seed_limit": 60,
+  "request_delay_seconds": 0.35,
+  "bank_dir": "/home/asdf/ircdpro-trivia/trivia",
+  "state_dir": "/home/asdf/ircdpro-trivia/state/question-factory-250k",
+  "public_repo": "/home/asdf/ircdpro-trivia/state/strict-public",
+  "allow_llm_api": false,
+  "allow_seed_fallback": false,
+  "production_approval": false
+}

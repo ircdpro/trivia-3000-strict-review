@@ -31,6 +31,7 @@ See [STRICT_REQUIREMENTS.md](STRICT_REQUIREMENTS.md) for the fail-closed rules.
 - `deficits.json` — topics that did not meet exactly ten questions
 - `validation-failures.json` — rejected records and reasons
 - `validate.py` — independent repository validator
+- `factory/` — resumable 250,000-candidate background run and batch validator
 
 See [AUDIT_FINDINGS.md](AUDIT_FINDINGS.md) for rejected generation passes and
 known limitations. No question in this repository is automatically loaded by
