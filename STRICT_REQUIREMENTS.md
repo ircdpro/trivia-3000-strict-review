@@ -9,6 +9,9 @@ never filled with an unverified or weak question.
 2. Exactly 10 accepted questions per topic.
 3. Exactly 3,000 accepted questions overall.
 4. Stable unique IDs in the form `strict-NNN-XX`.
+5. Each topic has a unique compact display name of at most 28 characters.
+6. The original full topic scope is preserved separately; shortening a display
+   name may not broaden or change what belongs in that topic.
 
 ## Required question quality
 

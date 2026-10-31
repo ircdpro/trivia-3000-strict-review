@@ -20,6 +20,8 @@
     "source_revision_required": true,
     "wikidata_entity_required": true,
     "malay_compact_question": true,
+    "compact_topic_names": true,
+    "max_topic_name_chars": 28,
     "max_question_chars": 160,
     "max_answer_chars": 80,
     "max_answer_words": 10,

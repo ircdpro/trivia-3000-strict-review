@@ -25,6 +25,7 @@ See [STRICT_REQUIREMENTS.md](STRICT_REQUIREMENTS.md) for the fail-closed rules.
 ## Layout
 
 - `questions/` — one JSONL file per topic
+- `topic-names.json` — compact display name and preserved full scope for all topics
 - `all-questions.jsonl` — all accepted records in topic order
 - `manifest.json` — authoritative gate status and counts
 - `deficits.json` — topics that did not meet exactly ten questions

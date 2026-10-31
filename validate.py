@@ -39,6 +39,18 @@ def near(left: str, right: str) -> bool:
 
 def main() -> int:
     errors: list[str] = []
+    topic_names_path = ROOT / "topic-names.json"
+    topic_names = (
+        json.loads(topic_names_path.read_text(encoding="utf-8"))
+        if topic_names_path.exists() else {}
+    )
+    if set(topic_names) != {f"{number:03d}" for number in range(1, 301)}:
+        errors.append("topic-names.json must contain exactly IDs 001..300")
+    compact_names = [str(item.get("compact") or "") for item in topic_names.values()]
+    if any(not name or len(name) > 28 for name in compact_names):
+        errors.append("topic display names must contain 1..28 characters")
+    if len({name.casefold() for name in compact_names}) != len(compact_names):
+        errors.append("topic display names must be unique")
     files = sorted((ROOT / "questions").glob("[0-9][0-9][0-9]_*.jsonl"))
     expected_topics = {f"{number:03d}" for number in range(1, 301)}
     actual_topics = {path.name[:3] for path in files}
@@ -88,6 +100,10 @@ def main() -> int:
                 errors.append(f"{item_id}: duplicate ID")
             if str(item.get("topic_id") or "").zfill(3) != topic_id:
                 errors.append(f"{item_id}: topic mismatch")
+            expected_topic = str(topic_names.get(topic_id, {}).get("compact") or "")
+            expected_full = str(topic_names.get(topic_id, {}).get("full_scope") or "")
+            if item.get("topic") != expected_topic or item.get("topic_full") != expected_full:
+                errors.append(f"{item_id}: compact/full topic metadata mismatch")
             if item.get("language") != "ms" or item.get("difficulty") != 3:
                 errors.append(f"{item_id}: invalid language/difficulty")
             if item.get("review_status") != "pending_owner_review":

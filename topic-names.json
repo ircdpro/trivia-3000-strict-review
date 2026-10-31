@@ -1,0 +1,1202 @@
+{
+  "001": {
+    "compact": "Melaka",
+    "full_scope": "Sejarah Melaka"
+  },
+  "002": {
+    "compact": "Johor Riau",
+    "full_scope": "Sejarah Johor Riau"
+  },
+  "003": {
+    "compact": "Kedah Tua",
+    "full_scope": "Sejarah Kedah Tua"
+  },
+  "004": {
+    "compact": "Perak",
+    "full_scope": "Sejarah Perak"
+  },
+  "005": {
+    "compact": "Pahang",
+    "full_scope": "Sejarah Pahang"
+  },
+  "006": {
+    "compact": "Selangor",
+    "full_scope": "Sejarah Selangor"
+  },
+  "007": {
+    "compact": "Negeri Sembilan",
+    "full_scope": "Sejarah Negeri Sembilan"
+  },
+  "008": {
+    "compact": "Terengganu",
+    "full_scope": "Sejarah Terengganu"
+  },
+  "009": {
+    "compact": "Kelantan",
+    "full_scope": "Sejarah Kelantan"
+  },
+  "010": {
+    "compact": "Sabah",
+    "full_scope": "Sejarah Sabah"
+  },
+  "011": {
+    "compact": "Sarawak",
+    "full_scope": "Sejarah Sarawak"
+  },
+  "012": {
+    "compact": "Sejarah Nusantara",
+    "full_scope": "Kajian Sejarah Nusantara Dan Buku Alternatif"
+  },
+  "013": {
+    "compact": "Pejuang Kemerdekaan",
+    "full_scope": "Pejuang Kemerdekaan"
+  },
+  "014": {
+    "compact": "Pendudukan Jepun",
+    "full_scope": "Pendudukan Jepun"
+  },
+  "015": {
+    "compact": "Pentadbiran British",
+    "full_scope": "Pentadbiran British"
+  },
+  "016": {
+    "compact": "Zaman Darurat",
+    "full_scope": "Zaman Darurat"
+  },
+  "017": {
+    "compact": "Pembentukan Malaysia 1963",
+    "full_scope": "Pembentukan Malaysia 1963"
+  },
+  "018": {
+    "compact": "Perdana Menteri Malaysia",
+    "full_scope": "Perdana Menteri Malaysia"
+  },
+  "019": {
+    "compact": "Ekonomi Mahathir",
+    "full_scope": "Dasar Ekonomi Mahathir Pertama"
+  },
+  "020": {
+    "compact": "Koridor Ekonomi Abdullah",
+    "full_scope": "Koridor Ekonomi Era Abdullah"
+  },
+  "021": {
+    "compact": "ETP Era Najib",
+    "full_scope": "Transformasi Ekonomi Etp Era Najib"
+  },
+  "022": {
+    "compact": "Skandal 1MDB",
+    "full_scope": "Isu Kewangan Dan Skandal 1Mdb"
+  },
+  "023": {
+    "compact": "Pakej Ekonomi Pandemik",
+    "full_scope": "Pakej Ekonomi Era Pandemik"
+  },
+  "024": {
+    "compact": "Dasar Ekonomi Madani",
+    "full_scope": "Dasar Ekonomi Madani"
+  },
+  "025": {
+    "compact": "Subsidi Bersasar Malaysia",
+    "full_scope": "Subsidi Bersasar Malaysia"
+  },
+  "026": {
+    "compact": "Belanjawan 2020–2024",
+    "full_scope": "Belanjawan Negara 2020 Hingga 2024"
+  },
+  "027": {
+    "compact": "Belanjawan 2025–2026",
+    "full_scope": "Belanjawan Madani 2025 Dan 2026"
+  },
+  "028": {
+    "compact": "Pelaburan Kerajaan GLIC",
+    "full_scope": "Syarikat Pelaburan Kerajaan Glic"
+  },
+  "029": {
+    "compact": "Syarikat Kerajaan GLC",
+    "full_scope": "Syarikat Milik Kerajaan Glc"
+  },
+  "030": {
+    "compact": "Parlimen & Pilihan Raya",
+    "full_scope": "Parlimen Dan Pilihan Raya"
+  },
+  "031": {
+    "compact": "Perlembagaan Persekutuan",
+    "full_scope": "Perlembagaan Persekutuan"
+  },
+  "032": {
+    "compact": "Raja Berperlembagaan",
+    "full_scope": "Sistem Raja Berperlembagaan"
+  },
+  "033": {
+    "compact": "Mahkamah & Kehakiman",
+    "full_scope": "Mahkamah Dan Kehakiman"
+  },
+  "034": {
+    "compact": "Hubungan Luar ASEAN",
+    "full_scope": "Hubungan Luar Asean"
+  },
+  "035": {
+    "compact": "PBB & Hubungan Global",
+    "full_scope": "Pbb Dan Hubungan Antarabangsa"
+  },
+  "036": {
+    "compact": "Ibu Negara Dunia",
+    "full_scope": "Ibu Negara Dunia"
+  },
+  "037": {
+    "compact": "Bandar Diraja Malaysia",
+    "full_scope": "Bandar Diraja Malaysia"
+  },
+  "038": {
+    "compact": "Daerah Semenanjung",
+    "full_scope": "Daerah Di Semenanjung"
+  },
+  "039": {
+    "compact": "Daerah Sabah Sarawak",
+    "full_scope": "Daerah Di Sabah Sarawak"
+  },
+  "040": {
+    "compact": "Sungai Dunia",
+    "full_scope": "Sungai Utama Dunia"
+  },
+  "041": {
+    "compact": "Sungai Malaysia",
+    "full_scope": "Sungai Di Malaysia"
+  },
+  "042": {
+    "compact": "Tasik Asli & Buatan",
+    "full_scope": "Tasik Semula Jadi Dan Buatan"
+  },
+  "043": {
+    "compact": "Gunung Tertinggi Dunia",
+    "full_scope": "Gunung Tertinggi Dunia"
+  },
+  "044": {
+    "compact": "Banjaran & Gunung Malaysia",
+    "full_scope": "Banjaran Dan Gunung Malaysia"
+  },
+  "045": {
+    "compact": "Pulau Dunia",
+    "full_scope": "Pulau Terkenal Dunia"
+  },
+  "046": {
+    "compact": "Pulau Malaysia",
+    "full_scope": "Pulau Di Malaysia"
+  },
+  "047": {
+    "compact": "Selat & Terusan Dunia",
+    "full_scope": "Selat Dan Terusan Dunia"
+  },
+  "048": {
+    "compact": "Gurun & Padang Pasir",
+    "full_scope": "Gurun Dan Padang Pasir"
+  },
+  "049": {
+    "compact": "Gua & Geopark",
+    "full_scope": "Gua Dan Geopark"
+  },
+  "050": {
+    "compact": "Sempadan Global",
+    "full_scope": "Sempadan Antarabangsa"
+  },
+  "051": {
+    "compact": "Peta & Meridian",
+    "full_scope": "Peta Dan Meridian"
+  },
+  "052": {
+    "compact": "Zon Masa Dunia",
+    "full_scope": "Zon Masa Dunia"
+  },
+  "053": {
+    "compact": "Iklim & Monsun",
+    "full_scope": "Iklim Dan Monsun"
+  },
+  "054": {
+    "compact": "Cuaca",
+    "full_scope": "Fenomena Cuaca"
+  },
+  "055": {
+    "compact": "Gunung Berapi Aktif",
+    "full_scope": "Gunung Berapi Aktif"
+  },
+  "056": {
+    "compact": "Kutub & Glasier",
+    "full_scope": "Kutub Dan Glasier"
+  },
+  "057": {
+    "compact": "Lebuh Raya Malaysia",
+    "full_scope": "Lebuh Raya Utama Malaysia"
+  },
+  "058": {
+    "compact": "Kereta Api Malaysia",
+    "full_scope": "Sistem Kereta Api Malaysia"
+  },
+  "059": {
+    "compact": "Kereta Api Laju Dunia",
+    "full_scope": "Kereta Api Laju Dunia"
+  },
+  "060": {
+    "compact": "Jambatan Dunia",
+    "full_scope": "Jambatan Terkenal Dunia"
+  },
+  "061": {
+    "compact": "Jambatan Malaysia",
+    "full_scope": "Jambatan Di Malaysia"
+  },
+  "062": {
+    "compact": "Bangunan Pencakar Langit",
+    "full_scope": "Bangunan Pencakar Langit"
+  },
+  "063": {
+    "compact": "Menara Telekomunikasi",
+    "full_scope": "Menara Telekomunikasi Dunia"
+  },
+  "064": {
+    "compact": "Pelabuhan Dunia",
+    "full_scope": "Pelabuhan Utama Dunia"
+  },
+  "065": {
+    "compact": "Lapangan Terbang",
+    "full_scope": "Lapangan Terbang Utama"
+  },
+  "066": {
+    "compact": "Jadual Berkala Unsur",
+    "full_scope": "Jadual Berkala Unsur"
+  },
+  "067": {
+    "compact": "Tindak Balas Kimia",
+    "full_scope": "Tindak Balas Kimia"
+  },
+  "068": {
+    "compact": "Sebatian & Formula Kimia",
+    "full_scope": "Sebatian Dan Formula Kimia"
+  },
+  "069": {
+    "compact": "Asid & Alkali",
+    "full_scope": "Asid Dan Alkali"
+  },
+  "070": {
+    "compact": "Logam & Aloi",
+    "full_scope": "Logam Dan Aloi"
+  },
+  "071": {
+    "compact": "Hukum Fizik & Daya",
+    "full_scope": "Hukum Fizik Dan Daya"
+  },
+  "072": {
+    "compact": "Optik & Cahaya",
+    "full_scope": "Optik Dan Cahaya"
+  },
+  "073": {
+    "compact": "Haba & Termodinamik",
+    "full_scope": "Haba Dan Termodinamik"
+  },
+  "074": {
+    "compact": "Elektrik & Magnet",
+    "full_scope": "Elektrik Dan Magnet"
+  },
+  "075": {
+    "compact": "Gelombang & Bunyi",
+    "full_scope": "Gelombang Dan Bunyi"
+  },
+  "076": {
+    "compact": "Struktur Sel",
+    "full_scope": "Struktur Sel Biologi"
+  },
+  "077": {
+    "compact": "Peredaran Darah",
+    "full_scope": "Sistem Peredaran Darah"
+  },
+  "078": {
+    "compact": "Penghadaman",
+    "full_scope": "Sistem Penghadaman"
+  },
+  "079": {
+    "compact": "Saraf & Otak",
+    "full_scope": "Sistem Saraf Dan Otak"
+  },
+  "080": {
+    "compact": "Kerangka & Sendi",
+    "full_scope": "Kerangka Dan Sendi"
+  },
+  "081": {
+    "compact": "Genetik & DNA",
+    "full_scope": "Genetik Dan Dna"
+  },
+  "082": {
+    "compact": "Mikroorganisma & Virus",
+    "full_scope": "Mikroorganisma Dan Virus"
+  },
+  "083": {
+    "compact": "Perubatan & Ubat",
+    "full_scope": "Perubatan Dan Ubat Asas"
+  },
+  "084": {
+    "compact": "Penyakit Kronik Manusia",
+    "full_scope": "Penyakit Kronik Manusia"
+  },
+  "085": {
+    "compact": "Nutrisi & Vitamin",
+    "full_scope": "Nutrisi Dan Vitamin"
+  },
+  "086": {
+    "compact": "Sistem Suria",
+    "full_scope": "Sistem Suria Dan Planet"
+  },
+  "087": {
+    "compact": "Bintang & Galaksi",
+    "full_scope": "Bintang Dan Galaksi"
+  },
+  "088": {
+    "compact": "Penerokaan Angkasa Lepas",
+    "full_scope": "Penerokaan Angkasa Lepas"
+  },
+  "089": {
+    "compact": "Bahasa Pengaturcaraan",
+    "full_scope": "Bahasa Pengaturcaraan"
+  },
+  "090": {
+    "compact": "Perkakasan PC",
+    "full_scope": "Perkakasan Komputer Pc"
+  },
+  "091": {
+    "compact": "Rangkaian Komputer",
+    "full_scope": "Rangkaian Komputer"
+  },
+  "092": {
+    "compact": "Protokol Internet",
+    "full_scope": "Protokol Internet Standard"
+  },
+  "093": {
+    "compact": "Sistem IRC",
+    "full_scope": "Protokol Dan Sistem Irc"
+  },
+  "094": {
+    "compact": "Sistem Operasi",
+    "full_scope": "Sistem Operasi Komputer"
+  },
+  "095": {
+    "compact": "Keselamatan Siber",
+    "full_scope": "Keselamatan Siber"
+  },
+  "096": {
+    "compact": "Kriptografi & Sekuriti",
+    "full_scope": "Kriptografi Dan Sekuriti"
+  },
+  "097": {
+    "compact": "Pangkalan Data",
+    "full_scope": "Pangkalan Data"
+  },
+  "098": {
+    "compact": "Kecerdasan Buatan AI",
+    "full_scope": "Kecerdasan Buatan Ai"
+  },
+  "099": {
+    "compact": "Perkakasan Telefon Pintar",
+    "full_scope": "Perkakasan Telefon Pintar"
+  },
+  "100": {
+    "compact": "Pempengaruh & Strim",
+    "full_scope": "Dunia Pempengaruh Dan Penstriman Digital"
+  },
+  "101": {
+    "compact": "Kereta Elektrik EV",
+    "full_scope": "Kereta Elektrik Ev"
+  },
+  "102": {
+    "compact": "Proton & Perodua",
+    "full_scope": "Kereta Nasional Proton Perodua"
+  },
+  "103": {
+    "compact": "Enjin Automotif",
+    "full_scope": "Enjin Mekanikal Automotif"
+  },
+  "104": {
+    "compact": "Semikonduktor",
+    "full_scope": "Industri Semikonduktor"
+  },
+  "105": {
+    "compact": "Robotik & Dron",
+    "full_scope": "Robotik Dan Dron"
+  },
+  "106": {
+    "compact": "Piala Dunia FIFA",
+    "full_scope": "Kejohanan Piala Dunia Fifa Moden"
+  },
+  "107": {
+    "compact": "Liga Juara UEFA",
+    "full_scope": "Kejohanan Liga Juara Juara Uefa"
+  },
+  "108": {
+    "compact": "Liga Perdana EPL",
+    "full_scope": "Liga Perdana Inggeris Epl Moden"
+  },
+  "109": {
+    "compact": "Bintang Bola Sepak",
+    "full_scope": "Bintang Bola Sepak Dunia Moden"
+  },
+  "110": {
+    "compact": "Liga Super Malaysia",
+    "full_scope": "Bola Sepak Liga Super Malaysia"
+  },
+  "111": {
+    "compact": "Bola Sepak Harimau Malaya",
+    "full_scope": "Pasukan Harimau Malaya"
+  },
+  "112": {
+    "compact": "Badminton Olimpik",
+    "full_scope": "Badminton Sukan Olimpik 2000 Hingga 2024"
+  },
+  "113": {
+    "compact": "Wira Badminton Malaysia",
+    "full_scope": "Wira Badminton Malaysia"
+  },
+  "114": {
+    "compact": "Jelajah BWF",
+    "full_scope": "Kejohanan Jelajah Bwf"
+  },
+  "115": {
+    "compact": "Olahraga Olimpik",
+    "full_scope": "Olahraga Sukan Olimpik"
+  },
+  "116": {
+    "compact": "Jaguh Olahraga Malaysia",
+    "full_scope": "Jaguh Olahraga Malaysia"
+  },
+  "117": {
+    "compact": "Renang Dunia",
+    "full_scope": "Sukan Renang Dunia"
+  },
+  "118": {
+    "compact": "Penerjun Akuatik Malaysia",
+    "full_scope": "Penerjun Akuatik Malaysia"
+  },
+  "119": {
+    "compact": "Formula Satu F1",
+    "full_scope": "Perlumbaan Formula Satu F1"
+  },
+  "120": {
+    "compact": "Litar Sepang SIC",
+    "full_scope": "Litar Antarabangsa Sepang Sic"
+  },
+  "121": {
+    "compact": "MotoGP Dunia",
+    "full_scope": "Perlumbaan Motogp Dunia"
+  },
+  "122": {
+    "compact": "Pelumba Permotoran Malaysia",
+    "full_scope": "Pelumba Permotoran Malaysia"
+  },
+  "123": {
+    "compact": "Grand Slam Tenis Dunia",
+    "full_scope": "Grand Slam Tenis Dunia"
+  },
+  "124": {
+    "compact": "Jaguh Skuasy Nicol David",
+    "full_scope": "Jaguh Skuasy Nicol David"
+  },
+  "125": {
+    "compact": "Azizulhasni Awang",
+    "full_scope": "Berbasikal Trek Azizulhasni Awang"
+  },
+  "126": {
+    "compact": "Bola Keranjang NBA",
+    "full_scope": "Bola Keranjang Nba Moden"
+  },
+  "127": {
+    "compact": "Sepak Takraw",
+    "full_scope": "Sukan Sepak Takraw"
+  },
+  "128": {
+    "compact": "Hoki Padang Malaysia",
+    "full_scope": "Sukan Hoki Padang Malaysia"
+  },
+  "129": {
+    "compact": "Ragbi Global",
+    "full_scope": "Sukan Ragbi Antarabangsa"
+  },
+  "130": {
+    "compact": "Silat",
+    "full_scope": "Seni Mempertahankan Diri Silat"
+  },
+  "131": {
+    "compact": "Seni Bela Diri Asia",
+    "full_scope": "Seni Bela Diri Asia"
+  },
+  "132": {
+    "compact": "MMA",
+    "full_scope": "Seni Mempertahankan Diri Campuran Mma"
+  },
+  "133": {
+    "compact": "Tinju Profesional",
+    "full_scope": "Sukan Tinju Profesional"
+  },
+  "134": {
+    "compact": "Gimnastik Artistik",
+    "full_scope": "Sukan Gimnastik Artistik"
+  },
+  "135": {
+    "compact": "Memanah & Menembak",
+    "full_scope": "Sukan Memanah Dan Menembak"
+  },
+  "136": {
+    "compact": "Boling Tenpin Malaysia",
+    "full_scope": "Sukan Boling Tenpin Malaysia"
+  },
+  "137": {
+    "compact": "Wira Paralimpik Malaysia",
+    "full_scope": "Wira Paralimpik Malaysia"
+  },
+  "138": {
+    "compact": "Golf Profesional",
+    "full_scope": "Sukan Golf Profesional"
+  },
+  "139": {
+    "compact": "Sukan SEA & Komanwel",
+    "full_scope": "Temasya Sukan Sea Dan Komanwel"
+  },
+  "140": {
+    "compact": "Sukan Tradisional",
+    "full_scope": "Sukan Tradisional Rakyat"
+  },
+  "141": {
+    "compact": "E-Sukan",
+    "full_scope": "Sukan Elektronik E Sukan"
+  },
+  "142": {
+    "compact": "Permainan Video PC",
+    "full_scope": "Permainan Video Pc Popular"
+  },
+  "143": {
+    "compact": "Francais Game Konsol",
+    "full_scope": "Francais Permainan Video Konsol"
+  },
+  "144": {
+    "compact": "Generasi Konsol",
+    "full_scope": "Konsol Permainan Video Generasi"
+  },
+  "145": {
+    "compact": "Permainan Papan",
+    "full_scope": "Permainan Papan Terkenal"
+  },
+  "146": {
+    "compact": "Kumpulan Rock Kapak",
+    "full_scope": "Kumpulan Rock Kapak Fenomena"
+  },
+  "147": {
+    "compact": "Vokalis Rock Kapak",
+    "full_scope": "Vokalis Rock Kapak Ikonik"
+  },
+  "148": {
+    "compact": "Lagu Balada Rock Berhantu",
+    "full_scope": "Lagu Balada Rock Berhantu"
+  },
+  "149": {
+    "compact": "AJL 2000–2009",
+    "full_scope": "Anugerah Juara Lagu 2000 Hingga 2009"
+  },
+  "150": {
+    "compact": "AJL 2010–2019",
+    "full_scope": "Anugerah Juara Lagu 2010 Hingga 2019"
+  },
+  "151": {
+    "compact": "AJL 2020–2026",
+    "full_scope": "Anugerah Juara Lagu 2020 Hingga 2026"
+  },
+  "152": {
+    "compact": "Legasi Diva Siti Nurhaliza",
+    "full_scope": "Legasi Diva Siti Nurhaliza"
+  },
+  "153": {
+    "compact": "Pop Lelaki Malaysia",
+    "full_scope": "Bintang Pop Lelaki Malaysia 2000An"
+  },
+  "154": {
+    "compact": "Pop Wanita Malaysia",
+    "full_scope": "Bintang Pop Wanita Malaysia 2000An"
+  },
+  "155": {
+    "compact": "Aina & Ernie",
+    "full_scope": "Fenomena Vokal Aina Abdul Dan Ernie Zakri"
+  },
+  "156": {
+    "compact": "Hip Hop Tempatan",
+    "full_scope": "Kebangkitan Muzik Hip Hop Tempatan"
+  },
+  "157": {
+    "compact": "Kumpulan Indie Tempatan",
+    "full_scope": "Kumpulan Indie Tempatan Moden"
+  },
+  "158": {
+    "compact": "Pop Rock Indonesia",
+    "full_scope": "Muzik Pop Rock Indonesia Di Malaysia"
+  },
+  "159": {
+    "compact": "Kumpulan Rock Global",
+    "full_scope": "Kumpulan Rock Antarabangsa Moden"
+  },
+  "160": {
+    "compact": "Bintang Pop Global",
+    "full_scope": "Bintang Pop Global Moden"
+  },
+  "161": {
+    "compact": "K-Pop Global",
+    "full_scope": "Fenomena Global Muzik K Pop"
+  },
+  "162": {
+    "compact": "Muzik Tradisional",
+    "full_scope": "Alat Muzik Tradisional Melayu"
+  },
+  "163": {
+    "compact": "Alat Muzik & Akustik",
+    "full_scope": "Alat Muzik Moden Dan Akustik"
+  },
+  "164": {
+    "compact": "Penstriman Audio Digital",
+    "full_scope": "Industri Penstriman Audio Digital"
+  },
+  "165": {
+    "compact": "Konsert Mega Malaysia",
+    "full_scope": "Fenomena Konsert Mega Di Malaysia"
+  },
+  "166": {
+    "compact": "Box Office Malaysia",
+    "full_scope": "Filem Box Office Malaysia Moden"
+  },
+  "167": {
+    "compact": "Francais Aksi Polis Evo",
+    "full_scope": "Francais Aksi Polis Evo"
+  },
+  "168": {
+    "compact": "Francais Seram Filem Munafik",
+    "full_scope": "Francais Seram Filem Munafik"
+  },
+  "169": {
+    "compact": "Filem Komedi Mamat Khalid",
+    "full_scope": "Filem Komedi Mamat Khalid"
+  },
+  "170": {
+    "compact": "Aksi Jenayah & Tentera",
+    "full_scope": "Filem Aksi Jenayah Dan Ketenteraan"
+  },
+  "171": {
+    "compact": "Filem Tempatan 2020–2026",
+    "full_scope": "Filem Pawagam Tempatan 2020 Hingga 2026"
+  },
+  "172": {
+    "compact": "Pelakon Lelaki Terlaris",
+    "full_scope": "Pelakon Filem Lelaki Terlaris"
+  },
+  "173": {
+    "compact": "Pelakon Wanita Terlaris",
+    "full_scope": "Pelakon Filem Wanita Terlaris"
+  },
+  "174": {
+    "compact": "Pengarah Filem Box Office",
+    "full_scope": "Pengarah Filem Box Office Komersial"
+  },
+  "175": {
+    "compact": "Drama TV3",
+    "full_scope": "Drama Bersiri Fenomena Tv3"
+  },
+  "176": {
+    "compact": "Drama Astro Shaw",
+    "full_scope": "Siri Drama Premium Astro Shaw"
+  },
+  "177": {
+    "compact": "Filem Animasi 3D Tempatan",
+    "full_scope": "Industri Filem Animasi 3D Tempatan"
+  },
+  "178": {
+    "compact": "Watak Animasi Tempatan",
+    "full_scope": "Karakter Dan Watak Animasi Tempatan"
+  },
+  "179": {
+    "compact": "Filem Marvel MCU",
+    "full_scope": "Francais Filem Marvel Mcu"
+  },
+  "180": {
+    "compact": "Filem DC Comics",
+    "full_scope": "Francais Filem Dc Comics"
+  },
+  "181": {
+    "compact": "Blockbuster Hollywood",
+    "full_scope": "Francais Blockbuster Hollywood"
+  },
+  "182": {
+    "compact": "Filem Fantasi Dunia",
+    "full_scope": "Siri Filem Fiksyen Dan Sihir Dunia"
+  },
+  "183": {
+    "compact": "Animasi Hollywood",
+    "full_scope": "Filem Animasi Hollywood Box Office"
+  },
+  "184": {
+    "compact": "Penstriman OTT Malaysia",
+    "full_scope": "Platform Penstriman Ott Malaysia"
+  },
+  "185": {
+    "compact": "Anugerah Filem",
+    "full_scope": "Anugerah Filem Berprestij"
+  },
+  "186": {
+    "compact": "Sirah & Kerasulan",
+    "full_scope": "Sirah Nabi Kelahiran Dan Kerasulan"
+  },
+  "187": {
+    "compact": "Hijrah Ke Madinah",
+    "full_scope": "Peristiwa Hijrah Ke Madinah"
+  },
+  "188": {
+    "compact": "Perang Zaman Rasulullah",
+    "full_scope": "Peperangan Utama Zaman Rasulullah"
+  },
+  "189": {
+    "compact": "Khulafa Ar-Rasyidin",
+    "full_scope": "Sahabat Khulafa Ar Rasyidin"
+  },
+  "190": {
+    "compact": "Sahabat Rasulullah",
+    "full_scope": "Tokoh Sahabat Rasulullah"
+  },
+  "191": {
+    "compact": "Rasul Ulul Azmi",
+    "full_scope": "Para Nabi Dan Rasul Ulul Azmi"
+  },
+  "192": {
+    "compact": "Mukjizat Para Nabi",
+    "full_scope": "Mukjizat Agung Para Nabi"
+  },
+  "193": {
+    "compact": "Surah & Ayat Al-Quran",
+    "full_scope": "Surah Dan Ayat Al Quran"
+  },
+  "194": {
+    "compact": "Struktur Al-Quran",
+    "full_scope": "Struktur Kitab Suci Al Quran"
+  },
+  "195": {
+    "compact": "Hadis & Kitab Sahih",
+    "full_scope": "Pengajian Hadis Dan Kitab Sahih"
+  },
+  "196": {
+    "compact": "Rukun Iman",
+    "full_scope": "Rukun Iman Enam Perkara"
+  },
+  "197": {
+    "compact": "Rukun Islam",
+    "full_scope": "Rukun Islam Lima Perkara"
+  },
+  "198": {
+    "compact": "Solat Fardu & Sunat",
+    "full_scope": "Ibadah Solat Fardhu Dan Sunat"
+  },
+  "199": {
+    "compact": "Puasa & Syarat Sah",
+    "full_scope": "Ibadah Puasa Dan Syarat Sah"
+  },
+  "200": {
+    "compact": "Zakat & Nisab",
+    "full_scope": "Ibadah Zakat Dan Nisab Harta"
+  },
+  "201": {
+    "compact": "Ibadah Haji & Umrah Makkah",
+    "full_scope": "Ibadah Haji Dan Umrah Di Makkah"
+  },
+  "202": {
+    "compact": "Tempat Suci Islam",
+    "full_scope": "Tempat Suci Dan Bersejarah Islam"
+  },
+  "203": {
+    "compact": "Masjid Bersejarah Malaysia",
+    "full_scope": "Masjid Ikonik Dan Bersejarah Malaysia"
+  },
+  "204": {
+    "compact": "Ilmuwan Islam",
+    "full_scope": "Tokoh Ilmuwan Sains Islam Silam"
+  },
+  "205": {
+    "compact": "Empat Mazhab Fiqh",
+    "full_scope": "Ulama Empat Mazhab Fiqh Ahli Sunnah"
+  },
+  "206": {
+    "compact": "Kerajaan Bani Umayyah",
+    "full_scope": "Sejarah Kerajaan Bani Umayyah"
+  },
+  "207": {
+    "compact": "Kerajaan Bani Abbasiyyah",
+    "full_scope": "Sejarah Kerajaan Bani Abbasiyyah"
+  },
+  "208": {
+    "compact": "Empayar Kerajaan Uthmaniyyah",
+    "full_scope": "Empayar Kerajaan Uthmaniyyah"
+  },
+  "209": {
+    "compact": "Israk & Mikraj",
+    "full_scope": "Peristiwa Israk Dan Mikraj"
+  },
+  "210": {
+    "compact": "Asmaul Husna",
+    "full_scope": "Asmaul Husna 99 Nama Allah"
+  },
+  "211": {
+    "compact": "Peribahasa Melayu",
+    "full_scope": "Peribahasa Melayu Tradisional"
+  },
+  "212": {
+    "compact": "Simpulan Bahasa Melayu",
+    "full_scope": "Simpulan Bahasa Melayu Harian"
+  },
+  "213": {
+    "compact": "Perumpamaan & Kiasan",
+    "full_scope": "Perumpamaan Dan Kiasan Melayu"
+  },
+  "214": {
+    "compact": "Kosa Kata Melayu",
+    "full_scope": "Kosa Kata Bahasa Melayu Standard"
+  },
+  "215": {
+    "compact": "Pinjaman Arab",
+    "full_scope": "Kata Pinjaman Bahasa Arab"
+  },
+  "216": {
+    "compact": "Pinjaman Sanskrit",
+    "full_scope": "Kata Pinjaman Bahasa Sanskrit"
+  },
+  "217": {
+    "compact": "Pinjaman Inggeris",
+    "full_scope": "Kata Pinjaman Bahasa Inggeris"
+  },
+  "218": {
+    "compact": "Kata Lawan",
+    "full_scope": "Pasangan Kata Lawan Antonim"
+  },
+  "219": {
+    "compact": "Kata Seerti",
+    "full_scope": "Pasangan Kata Seerti Sinonim"
+  },
+  "220": {
+    "compact": "Penjodoh Bilangan",
+    "full_scope": "Penjodoh Bilangan Bahasa Melayu"
+  },
+  "221": {
+    "compact": "Sasterawan Negara",
+    "full_scope": "Sasterawan Negara Malaysia"
+  },
+  "222": {
+    "compact": "Sastera Klasik Melayu",
+    "full_scope": "Karya Sastera Klasik Agung Melayu"
+  },
+  "223": {
+    "compact": "Pantun Tradisional",
+    "full_scope": "Pantun Melayu Tradisional"
+  },
+  "224": {
+    "compact": "Puisi Tradisional",
+    "full_scope": "Bentuk Puisi Melayu Tradisional"
+  },
+  "225": {
+    "compact": "Novel KOMSAS",
+    "full_scope": "Novel Sastera Komsas Sekolah"
+  },
+  "226": {
+    "compact": "Cerita Rakyat & Jenaka",
+    "full_scope": "Cerita Rakyat Dan Jenaka Melayu"
+  },
+  "227": {
+    "compact": "Dialek Melayu Pantai Timur",
+    "full_scope": "Dialek Melayu Pantai Timur"
+  },
+  "228": {
+    "compact": "Dialek Melayu Utara",
+    "full_scope": "Dialek Melayu Utara Semenanjung"
+  },
+  "229": {
+    "compact": "Dialek Negeri Sembilan",
+    "full_scope": "Dialek Melayu Negeri Sembilan"
+  },
+  "230": {
+    "compact": "Morfologi & Imbuhan Kata",
+    "full_scope": "Morfologi Dan Imbuhan Kata"
+  },
+  "231": {
+    "compact": "Sintaksis Melayu",
+    "full_scope": "Sintaksis Pola Ayat Dasar Melayu"
+  },
+  "232": {
+    "compact": "Bahasa Istana",
+    "full_scope": "Bahasa Istana Melayu"
+  },
+  "233": {
+    "compact": "Pendeta Za'ba",
+    "full_scope": "Tokoh Pendeta Zaaba"
+  },
+  "234": {
+    "compact": "Sastera Inggeris",
+    "full_scope": "Kesusasteraan Inggeris Terjemahan"
+  },
+  "235": {
+    "compact": "Novel Fiksyen Terlaris Dunia",
+    "full_scope": "Novel Fiksyen Terlaris Dunia"
+  },
+  "236": {
+    "compact": "Masakan Melayu",
+    "full_scope": "Masakan Tradisional Melayu Asli"
+  },
+  "237": {
+    "compact": "Hidangan Negeri",
+    "full_scope": "Hidangan Khas Negeri Di Malaysia"
+  },
+  "238": {
+    "compact": "Kuih Tradisional",
+    "full_scope": "Kuih Muih Tradisional Melayu"
+  },
+  "239": {
+    "compact": "Makanan Etnik Cina",
+    "full_scope": "Makanan Tradisional Etnik Cina"
+  },
+  "240": {
+    "compact": "Makanan Etnik India",
+    "full_scope": "Makanan Tradisional Etnik India"
+  },
+  "241": {
+    "compact": "Makanan Sabah Sarawak",
+    "full_scope": "Makanan Tradisional Sabah Sarawak"
+  },
+  "242": {
+    "compact": "Rempah Empat Sekawan",
+    "full_scope": "Rempah Ratus Masakan Empat Sekawan"
+  },
+  "243": {
+    "compact": "Herba Aromatik",
+    "full_scope": "Herba Dan Dedaun Aromatik Kulinari"
+  },
+  "244": {
+    "compact": "Sayur & Ulam",
+    "full_scope": "Sayur Sayuran Dan Ulam Ulaman Asli"
+  },
+  "245": {
+    "compact": "Buah Tropika Malaysia",
+    "full_scope": "Raja Dan Ratu Buah Tropika Malaysia"
+  },
+  "246": {
+    "compact": "Kopi & Kopitiam",
+    "full_scope": "Budaya Minuman Kopi Kopitiam Warung"
+  },
+  "247": {
+    "compact": "Teh & Warung",
+    "full_scope": "Budaya Minuman Teh Dan Warung Tarik"
+  },
+  "248": {
+    "compact": "Sarapan Pagi",
+    "full_scope": "Hidangan Sarapan Pagi Kegemaran"
+  },
+  "249": {
+    "compact": "Masakan Mi",
+    "full_scope": "Variasi Masakan Mi Popular"
+  },
+  "250": {
+    "compact": "Makanan Jalanan",
+    "full_scope": "Makanan Jalanan Street Food Popular"
+  },
+  "251": {
+    "compact": "Burger Ramly",
+    "full_scope": "Rangkaian Burger Tempatan Ramly"
+  },
+  "252": {
+    "compact": "Makanan Jepun",
+    "full_scope": "Makanan Jepun Popular Di Malaysia"
+  },
+  "253": {
+    "compact": "Makanan Korea",
+    "full_scope": "Makanan Korea Popular Di Malaysia"
+  },
+  "254": {
+    "compact": "Kulinari Timur Tengah",
+    "full_scope": "Makanan Kulinari Timur Tengah"
+  },
+  "255": {
+    "compact": "Kulinari Itali & Barat",
+    "full_scope": "Kulinari Itali Dan Barat Popular"
+  },
+  "256": {
+    "compact": "Pastri & Pencuci Mulut",
+    "full_scope": "Pastri Dan Pencuci Mulut Moden"
+  },
+  "257": {
+    "compact": "Sambal & Pencicah",
+    "full_scope": "Variasi Sambal Dan Pencicah Asli"
+  },
+  "258": {
+    "compact": "Keju & Tenusu",
+    "full_scope": "Produk Keju Dan Tenusu Harian"
+  },
+  "259": {
+    "compact": "Teknik Memasak",
+    "full_scope": "Kaedah Dan Teknik Memasak Kulinari"
+  },
+  "260": {
+    "compact": "Makanan Laut",
+    "full_scope": "Makanan Laut Dan Ikan Pasaran"
+  },
+  "261": {
+    "compact": "Bursa Malaysia",
+    "full_scope": "Pasaran Saham Bursa Malaysia"
+  },
+  "262": {
+    "compact": "Mata Wang & Kod",
+    "full_scope": "Mata Wang Dunia Dan Kod Rasmi"
+  },
+  "263": {
+    "compact": "Perbankan Malaysia",
+    "full_scope": "Institusi Perbankan Di Malaysia"
+  },
+  "264": {
+    "compact": "Pembinaan & Hartanah",
+    "full_scope": "Syarikat Pembinaan Dan Hartanah Mega"
+  },
+  "265": {
+    "compact": "Telekom Malaysia",
+    "full_scope": "Syarikat Telekomunikasi Malaysia"
+  },
+  "266": {
+    "compact": "Pasar Raya",
+    "full_scope": "Rangkaian Pasar Raya Dan Hypermarket"
+  },
+  "267": {
+    "compact": "Kedai Serbaneka",
+    "full_scope": "Rangkaian Kedai Serbaneka Moden"
+  },
+  "268": {
+    "compact": "Barangan Rumah & Bajet",
+    "full_scope": "Kedai Barangan Rumah Dan Bajet"
+  },
+  "269": {
+    "compact": "E-Dagang & P-Hailing",
+    "full_scope": "Ekonomi Digital E Dagang Dan P Hailing"
+  },
+  "270": {
+    "compact": "Usahawan Digital",
+    "full_scope": "Jenama Usahawan Digital Tempatan"
+  },
+  "271": {
+    "compact": "Penerbangan Komersial",
+    "full_scope": "Syarikat Penerbangan Komersial"
+  },
+  "272": {
+    "compact": "Pesawat Penumpang",
+    "full_scope": "Model Pesawat Penumpang Komersial"
+  },
+  "273": {
+    "compact": "Minyak & Gas Petronas",
+    "full_scope": "Industri Minyak Dan Gas Petronas"
+  },
+  "274": {
+    "compact": "Minyak Sawit",
+    "full_scope": "Industri Komoditi Minyak Sawit"
+  },
+  "275": {
+    "compact": "Elektronik Rumah",
+    "full_scope": "Jenama Elektronik Barangan Rumah"
+  },
+  "276": {
+    "compact": "Kurier & Bungkusan",
+    "full_scope": "Industri Penghantaran Kurier Bungkusan"
+  },
+  "277": {
+    "compact": "Unit Amanah Nasional",
+    "full_scope": "Pelaburan Tabung Unit Amanah Nasional"
+  },
+  "278": {
+    "compact": "Bayaran Tanpa Tunai",
+    "full_scope": "Sistem Pembayaran Digital Tanpa Tunai"
+  },
+  "279": {
+    "compact": "Agensi Cukai",
+    "full_scope": "Agensi Cukai Hasil Negara"
+  },
+  "280": {
+    "compact": "Universiti Awam Malaysia",
+    "full_scope": "Universiti Awam Bersejarah Malaysia"
+  },
+  "281": {
+    "compact": "Bunga Raya",
+    "full_scope": "Bunga Kebangsaan Bunga Raya"
+  },
+  "282": {
+    "compact": "Pokok Balak",
+    "full_scope": "Spesies Pokok Balak Hutan Hujan"
+  },
+  "283": {
+    "compact": "Hutan Bakau",
+    "full_scope": "Spesies Pokok Hutan Paya Bakau"
+  },
+  "284": {
+    "compact": "Tumbuhan Karnivor",
+    "full_scope": "Tumbuhan Karnivor Semula Jadi"
+  },
+  "285": {
+    "compact": "Bunga Pakma",
+    "full_scope": "Bunga Terbesar Dunia Bunga Pakma"
+  },
+  "286": {
+    "compact": "Harimau Malaya",
+    "full_scope": "Mamalia Ikonik Harimau Malaya"
+  },
+  "287": {
+    "compact": "Gajah Kerdil Borneo",
+    "full_scope": "Mamalia Terancam Gajah Kerdil Borneo"
+  },
+  "288": {
+    "compact": "Orang Utan Borneo",
+    "full_scope": "Primata Mawas Orang Utan Borneo"
+  },
+  "289": {
+    "compact": "Monyet Belanda",
+    "full_scope": "Primata Unik Monyet Belanda"
+  },
+  "290": {
+    "compact": "Tapir Malaya",
+    "full_scope": "Mamalia Unik Tapir Malaya"
+  },
+  "291": {
+    "compact": "Burung Enggang",
+    "full_scope": "Spesies Burung Enggang Hornbill"
+  },
+  "292": {
+    "compact": "Penyu Belimbing",
+    "full_scope": "Hidupan Marin Penyu Belimbing"
+  },
+  "293": {
+    "compact": "Dugong",
+    "full_scope": "Hidupan Mamalia Laut Dugong"
+  },
+  "294": {
+    "compact": "Ikan Air Tawar",
+    "full_scope": "Spesies Ikan Air Tawar Tropika"
+  },
+  "295": {
+    "compact": "Rama-Rama",
+    "full_scope": "Spesies Rama Rama Kupu Kupu"
+  },
+  "296": {
+    "compact": "Jenis Batuan",
+    "full_scope": "Geologi Jenis Batuan Bumi"
+  },
+  "297": {
+    "compact": "Hasil Bumi Malaysia",
+    "full_scope": "Mineral Dan Hasil Bumi Malaysia"
+  },
+  "298": {
+    "compact": "Struktur Bumi",
+    "full_scope": "Lapisan Struktur Bumi Dalaman"
+  },
+  "299": {
+    "compact": "Gempa & Tektonik",
+    "full_scope": "Bencana Gempa Bumi Dan Tektonik"
+  },
+  "300": {
+    "compact": "Hutan & Taman Purba",
+    "full_scope": "Hutan Simpan Dan Taman Negara Purba"
+  }
+}
