@@ -19,6 +19,8 @@ CPU time, disk space, and Wikimedia request capacity.
   GitHub's 100 MB single-file limit.
 - Checkpoints are saved after each ten-topic source job.
 - The worker exits automatically when the target is reached.
+- Start and end notifications are sent to the configured email address through
+  the server's local Postfix transport.
 - If the safe source sweep cannot reach the target, it exits as
   `SOURCE_EXHAUSTED`; it never pads the count with weak material.
 
