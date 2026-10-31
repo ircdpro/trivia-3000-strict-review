@@ -4,11 +4,12 @@
   "target_new_questions": 250000,
   "published_questions": 0,
   "published_batches": 0,
-  "pending_questions": 0,
-  "completed_jobs": 0,
+  "pending_questions": 207,
+  "completed_jobs": 1,
   "total_jobs": 60,
   "production_approved": false,
   "generation": "Wikimedia structured data; no LLM/API tokens",
-  "updated_at": "2026-10-31T16:42:43+00:00",
-  "note": "Source discovery is in progress."
+  "updated_at": "2026-10-31T16:45:43+00:00",
+  "last_completed_job": "ms-001-010",
+  "last_job_accepted": 207
 }
