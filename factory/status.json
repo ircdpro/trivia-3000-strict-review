@@ -4,12 +4,12 @@
   "target_new_questions": 250000,
   "published_questions": 0,
   "published_batches": 0,
-  "pending_questions": 743,
-  "completed_jobs": 5,
+  "pending_questions": 889,
+  "completed_jobs": 6,
   "total_jobs": 60,
   "production_approved": false,
   "generation": "Wikimedia structured data; no LLM/API tokens",
-  "updated_at": "2026-10-31T17:01:09+00:00",
-  "last_completed_job": "ms-041-050",
-  "last_job_accepted": 156
+  "updated_at": "2026-10-31T17:05:27+00:00",
+  "last_completed_job": "ms-051-060",
+  "last_job_accepted": 146
 }
