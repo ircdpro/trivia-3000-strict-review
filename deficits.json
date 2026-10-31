@@ -1,0 +1,770 @@
+[
+  {
+    "topic_id": "012",
+    "accepted": 4,
+    "required": 10,
+    "missing": 6
+  },
+  {
+    "topic_id": "020",
+    "accepted": 1,
+    "required": 10,
+    "missing": 9
+  },
+  {
+    "topic_id": "021",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "022",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "023",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "024",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "025",
+    "accepted": 1,
+    "required": 10,
+    "missing": 9
+  },
+  {
+    "topic_id": "027",
+    "accepted": 2,
+    "required": 10,
+    "missing": 8
+  },
+  {
+    "topic_id": "028",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "029",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "038",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "043",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "044",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "050",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "052",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "059",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "062",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "064",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "071",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "073",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "074",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "077",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "083",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "085",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "088",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "093",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "096",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "100",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "102",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "103",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "105",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "107",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "114",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "117",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "118",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "120",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "125",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "128",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "129",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "130",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "136",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "139",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "142",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "145",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "148",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "149",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "150",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "153",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "154",
+    "accepted": 5,
+    "required": 10,
+    "missing": 5
+  },
+  {
+    "topic_id": "155",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "156",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "157",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "158",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "159",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "161",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "163",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "165",
+    "accepted": 4,
+    "required": 10,
+    "missing": 6
+  },
+  {
+    "topic_id": "166",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "167",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "173",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "179",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "184",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "190",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "191",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "192",
+    "accepted": 1,
+    "required": 10,
+    "missing": 9
+  },
+  {
+    "topic_id": "194",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "196",
+    "accepted": 1,
+    "required": 10,
+    "missing": 9
+  },
+  {
+    "topic_id": "197",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "199",
+    "accepted": 2,
+    "required": 10,
+    "missing": 8
+  },
+  {
+    "topic_id": "200",
+    "accepted": 4,
+    "required": 10,
+    "missing": 6
+  },
+  {
+    "topic_id": "202",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "203",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "209",
+    "accepted": 5,
+    "required": 10,
+    "missing": 5
+  },
+  {
+    "topic_id": "210",
+    "accepted": 2,
+    "required": 10,
+    "missing": 8
+  },
+  {
+    "topic_id": "211",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "213",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "216",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "218",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "219",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "220",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "222",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "224",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "225",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "226",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "227",
+    "accepted": 4,
+    "required": 10,
+    "missing": 6
+  },
+  {
+    "topic_id": "228",
+    "accepted": 5,
+    "required": 10,
+    "missing": 5
+  },
+  {
+    "topic_id": "229",
+    "accepted": 3,
+    "required": 10,
+    "missing": 7
+  },
+  {
+    "topic_id": "230",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "231",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "233",
+    "accepted": 1,
+    "required": 10,
+    "missing": 9
+  },
+  {
+    "topic_id": "234",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "235",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "236",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "237",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "238",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "241",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "242",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "243",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "244",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "245",
+    "accepted": 5,
+    "required": 10,
+    "missing": 5
+  },
+  {
+    "topic_id": "246",
+    "accepted": 4,
+    "required": 10,
+    "missing": 6
+  },
+  {
+    "topic_id": "247",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "248",
+    "accepted": 4,
+    "required": 10,
+    "missing": 6
+  },
+  {
+    "topic_id": "250",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "251",
+    "accepted": 4,
+    "required": 10,
+    "missing": 6
+  },
+  {
+    "topic_id": "255",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "256",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "257",
+    "accepted": 2,
+    "required": 10,
+    "missing": 8
+  },
+  {
+    "topic_id": "259",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "264",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "265",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "266",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "267",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "268",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "269",
+    "accepted": 0,
+    "required": 10,
+    "missing": 10
+  },
+  {
+    "topic_id": "270",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  },
+  {
+    "topic_id": "273",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "275",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "276",
+    "accepted": 5,
+    "required": 10,
+    "missing": 5
+  },
+  {
+    "topic_id": "277",
+    "accepted": 1,
+    "required": 10,
+    "missing": 9
+  },
+  {
+    "topic_id": "279",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "286",
+    "accepted": 7,
+    "required": 10,
+    "missing": 3
+  },
+  {
+    "topic_id": "288",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "289",
+    "accepted": 5,
+    "required": 10,
+    "missing": 5
+  },
+  {
+    "topic_id": "290",
+    "accepted": 1,
+    "required": 10,
+    "missing": 9
+  },
+  {
+    "topic_id": "293",
+    "accepted": 8,
+    "required": 10,
+    "missing": 2
+  },
+  {
+    "topic_id": "296",
+    "accepted": 9,
+    "required": 10,
+    "missing": 1
+  },
+  {
+    "topic_id": "297",
+    "accepted": 6,
+    "required": 10,
+    "missing": 4
+  }
+]

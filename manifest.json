@@ -1,0 +1,110 @@
+{
+  "status": "STRICT-FAIL-NOT-PUBLISHABLE",
+  "publishable": false,
+  "production_approved": false,
+  "owner_review_required": true,
+  "topics_required": 300,
+  "topics_present": 300,
+  "questions_per_topic_required": 10,
+  "questions_required": 3000,
+  "questions_accepted": 2539,
+  "missing_topics": [],
+  "unexpected_topics": [],
+  "deficit_topics": 128,
+  "validation_failures": 14,
+  "strict_requirements": {
+    "fail_closed": true,
+    "no_padding": true,
+    "exact_and_near_duplicate_free": true,
+    "unique_source_fact": true,
+    "source_revision_required": true,
+    "wikidata_entity_required": true,
+    "malay_compact_question": true,
+    "max_question_chars": 160,
+    "max_answer_chars": 80,
+    "max_answer_words": 10,
+    "manual_owner_approval_before_production": true
+  },
+  "most_reused_answers": [
+    [
+      "malaysia",
+      42
+    ],
+    [
+      "indonesia",
+      13
+    ],
+    [
+      "2010",
+      13
+    ],
+    [
+      "1991",
+      12
+    ],
+    [
+      "kuala lumpur",
+      11
+    ],
+    [
+      "1983",
+      10
+    ],
+    [
+      "1973",
+      9
+    ],
+    [
+      "2009",
+      9
+    ],
+    [
+      "1993",
+      9
+    ],
+    [
+      "1975",
+      8
+    ],
+    [
+      "2000",
+      8
+    ],
+    [
+      "1988",
+      8
+    ],
+    [
+      "singapura",
+      7
+    ],
+    [
+      "1986",
+      7
+    ],
+    [
+      "1963",
+      7
+    ],
+    [
+      "2014",
+      7
+    ],
+    [
+      "jepun",
+      7
+    ],
+    [
+      "1979",
+      7
+    ],
+    [
+      "1997",
+      7
+    ],
+    [
+      "1971",
+      7
+    ]
+  ]
+}

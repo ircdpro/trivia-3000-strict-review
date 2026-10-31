@@ -1,0 +1,114 @@
+[
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/001-025/questions/012_kajian_sejarah_nusantara_dan_buku_alternatif.jsonl:5",
+    "id": "strict-012-05",
+    "topic_id": "012",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/026-050/questions/028_syarikat_pelaburan_kerajaan_glic.jsonl:7",
+    "id": "strict-028-07",
+    "topic_id": "028",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/051-075/questions/071_hukum_fizik_dan_daya.jsonl:10",
+    "id": "strict-071-10",
+    "topic_id": "071",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/076-100/questions/093_protokol_dan_sistem_irc.jsonl:7",
+    "id": "strict-093-07",
+    "topic_id": "093",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/076-100/questions/096_kriptografi_dan_sekuriti.jsonl:7",
+    "id": "strict-096-07",
+    "topic_id": "096",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/101-125/questions/102_kereta_nasional_proton_perodua.jsonl:7",
+    "id": "strict-102-07",
+    "topic_id": "102",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/101-125/questions/102_kereta_nasional_proton_perodua.jsonl:8",
+    "id": "strict-102-08",
+    "topic_id": "102",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/101-125/questions/105_robotik_dan_dron.jsonl:9",
+    "id": "strict-105-09",
+    "topic_id": "105",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/101-125/questions/120_litar_antarabangsa_sepang_sic.jsonl:8",
+    "id": "strict-120-08",
+    "topic_id": "120",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/126-150/questions/139_temasya_sukan_sea_dan_komanwel.jsonl:10",
+    "id": "strict-139-10",
+    "topic_id": "139",
+    "errors": [
+      "duplicate_source_fact"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/151-175/questions/158_muzik_pop_rock_indonesia_di_malaysia.jsonl:10",
+    "id": "strict-158-10",
+    "topic_id": "158",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/226-250/questions/241_makanan_tradisional_sabah_sarawak.jsonl:10",
+    "id": "strict-241-10",
+    "topic_id": "241",
+    "errors": [
+      "duplicate_source_fact"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/226-250/questions/242_rempah_ratus_masakan_empat_sekawan.jsonl:7",
+    "id": "strict-242-07",
+    "topic_id": "242",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  },
+  {
+    "origin": "state/strict-shards-v9-expanded-facts/226-250/questions/247_budaya_minuman_teh_dan_warung_tarik.jsonl:10",
+    "id": "strict-247-10",
+    "topic_id": "247",
+    "errors": [
+      "duplicate_answer_in_topic"
+    ]
+  }
+]
