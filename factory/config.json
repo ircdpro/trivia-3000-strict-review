@@ -14,7 +14,10 @@
   "bank_dir": "/home/asdf/ircdpro-trivia/trivia",
   "state_dir": "/home/asdf/ircdpro-trivia/state/question-factory-250k",
   "public_repo": "/home/asdf/ircdpro-trivia/state/strict-public",
-  "notification_email": "asdf@ircd.pro",
+  "notification_emails": [
+    "asdf@ircd.pro",
+    "b3rtynet@gmail.com"
+  ],
   "allow_llm_api": false,
   "allow_seed_fallback": false,
   "production_approval": false
