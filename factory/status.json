@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "state": "QUEUED",
+  "state": "RUNNING",
   "target_new_questions": 250000,
   "published_questions": 0,
   "published_batches": 0,
@@ -9,6 +9,6 @@
   "total_jobs": 60,
   "production_approved": false,
   "generation": "Wikimedia structured data; no LLM/API tokens",
-  "note": "The background worker is being deployed.",
-  "updated_at": "2026-10-31T00:00:00+00:00"
+  "updated_at": "2026-10-31T16:42:07+00:00",
+  "note": "Source discovery is in progress."
 }
