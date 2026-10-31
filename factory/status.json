@@ -2,14 +2,13 @@
   "schema": 1,
   "state": "RUNNING",
   "target_new_questions": 250000,
-  "published_questions": 0,
-  "published_batches": 0,
-  "pending_questions": 3069,
+  "published_questions": 3069,
+  "published_batches": 1,
+  "pending_questions": 0,
   "completed_jobs": 60,
   "total_jobs": 60,
   "production_approved": false,
   "generation": "Wikimedia structured data; no LLM/API tokens",
-  "updated_at": "2026-10-31T19:53:14+00:00",
-  "last_completed_job": "en-291-300",
-  "last_job_accepted": 4
+  "updated_at": "2026-10-31T19:53:18+00:00",
+  "last_published_batch": "batch-00001.jsonl"
 }
