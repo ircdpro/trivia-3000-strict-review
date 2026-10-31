@@ -5,11 +5,11 @@
   "published_questions": 0,
   "published_batches": 0,
   "pending_questions": 2958,
-  "completed_jobs": 38,
+  "completed_jobs": 39,
   "total_jobs": 60,
   "production_approved": false,
   "generation": "Wikimedia structured data; no LLM/API tokens",
-  "updated_at": "2026-10-31T18:59:29+00:00",
-  "last_completed_job": "en-071-080",
-  "last_job_accepted": 3
+  "updated_at": "2026-10-31T19:01:08+00:00",
+  "last_completed_job": "en-081-090",
+  "last_job_accepted": 0
 }
